@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mi Son Geek, ma mica scemo!
+title: Mi son geek. E tu lo sei?
 email: misongeek@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Pensieri, parole, recensioni e omissioni in ordine sparso su prodotti Geek e Tech.
-  Se non conosci TI INVADERS, allora sei troppo giovane.
+  Pensieri, parole, recensioni e omissioni di un geek.
+  E se non conoscete TI INVADERS siete decisamente troppo giovani.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://misongeek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: misongeek
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: MiSonGeek
 github_username:  misongeek
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 gems:
   - jekyll-feed
 exclude:
