@@ -7,32 +7,6 @@ disqus: 1
 categories: smartphone chinaphone smartchinaphone acquisti dubbi consigli 
 ---
 
-<style>
-ul.share-buttons{
-  list-style: none;
-  padding: 0;
-}
-
-ul.share-buttons li{
-  display: inline;
-}
-
-ul.share-buttons .sr-only {
-  position: absolute;
-  clip: rect(1px 1px 1px 1px);
-  clip: rect(1px, 1px, 1px, 1px);
-  padding: 0;
-  border: 0;
-  height: 1px;
-  width: 1px;
-  overflow: hidden;
-}
-
-ul.share-buttons img{
-  width: 32px;
-}
-</style>
-
 Poiché *mi son geek*, voglio comprarmi un SCP (si legge eSseCiPi), ovvero uno SmartChinaPhone.
 
 Ne ho visti diversi, tutti con specifiche tecniche **paurose**, ma ad oggi non mi sono ancora convinto. 
@@ -57,7 +31,7 @@ I modelli che ho in mente sono:
 4. [Xiaomi Redmi 4 pro](http://www.hdblog.it/xiaomi/schede-tecniche/xiaomi-redmi-4-pro_i3328/)
 
 Voi cosa ne pensate, comprereste uno di questi tre SCP? Altrimenti quale?
-<br>
+<!--<br>
 <ul class="share-buttons">
   <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fmisongeek.github.io&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="{{ site.url }}/images/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
   <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fmisongeek.github.io&text=:%20http%3A%2F%2Fmisongeek.github.io&via=misongeek" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="{{ site.url }}/images/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
@@ -65,7 +39,7 @@ Voi cosa ne pensate, comprereste uno di questi tre SCP? Altrimenti quale?
   <li><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fmisongeek.github.io&description=" target="_blank" title="Pin it" onclick="window.open('http://pinterest.com/pin/create/button/?url=' + encodeURIComponent(document.URL) + '&description=' +  encodeURIComponent(document.title)); return false;"><img alt="Pin it" src="{{ site.url }}/images/social_flat_rounded_rects_svg/Pinterest.svg"></a></li>
   <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Fmisongeek.github.io&title=" target="_blank" title="Submit to Reddit" onclick="window.open('http://www.reddit.com/submit?url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Submit to Reddit" src="{{ site.url }}/images/social_flat_rounded_rects_svg/Reddit.svg"></a></li>
   <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fmisongeek.github.io&title=&summary=&source=http%3A%2F%2Fmisongeek.github.io" target="_blank" title="Share on LinkedIn" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&url=' + encodeURIComponent(document.URL) + '&title=' +  encodeURIComponent(document.title)); return false;"><img alt="Share on LinkedIn" src="{{ site.url }}/images/social_flat_rounded_rects_svg/LinkedIn.svg"></a></li>
-</ul>
+</ul>-->
 
 
 <script id="dsq-count-scr" src="//misongeek-github-io.disqus.com/count.js" async></script>
