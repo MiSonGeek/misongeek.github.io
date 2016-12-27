@@ -6,6 +6,7 @@ comments: true
 disqus: 1
 categories: smartphone chinaphone smartchinaphone acquisti dubbi consigli 
 ---
+
 Poiché *mi son geek*, voglio comprarmi un SCP (si legge eSseCiPi), ovvero uno SmartChinaPhone.
 
 Ne ho visti diversi, tutti con specifiche tecniche **paurose**, ma ad oggi non mi sono ancora convinto. 
@@ -34,6 +35,17 @@ Voi cosa ne pensate, comprereste uno di questi tre SCP? Altrimenti quale?
 
 <script id="dsq-count-scr" src="//misongeek-github-io.disqus.com/count.js" async></script>
 <br>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Mi Son Geek -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4380781683351357"
+     data-ad-slot="3123045621"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <hr>
 
 {% if page.comments %}
@@ -58,3 +70,4 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
+
