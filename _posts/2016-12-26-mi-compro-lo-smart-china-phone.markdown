@@ -32,7 +32,7 @@ I modelli che ho in mente sono:
 
 Voi cosa ne pensate, comprereste uno di questi tre SCP? Altrimenti quale?
 <br>
-
+<link rel="stylesheet" href="/assets/share-page.css">
 <ul class="share-buttons">
   <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fmisongeek.github.io&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="{{ site.url }}/images/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
   <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fmisongeek.github.io&text=:%20http%3A%2F%2Fmisongeek.github.io&via=misongeek" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="{{ site.url }}/images/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
