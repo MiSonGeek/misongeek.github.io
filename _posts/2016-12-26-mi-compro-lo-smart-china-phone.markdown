@@ -32,29 +32,7 @@ I modelli che ho in mente sono:
 
 Voi cosa ne pensate, comprereste uno di questi tre SCP? Altrimenti quale?
 <br>
-<ul class="share-buttons" style="ul.share-buttons{
-  list-style: none;
-  padding: 0;
-}
-
-ul.share-buttons li{
-  display: inline;
-}
-
-ul.share-buttons .sr-only {
-  position: absolute;
-  clip: rect(1px 1px 1px 1px);
-  clip: rect(1px, 1px, 1px, 1px);
-  padding: 0;
-  border: 0;
-  height: 1px;
-  width: 1px;
-  overflow: hidden;
-}
-
-ul.share-buttons img{
-  width: 32px;
-}">
+<ul class="share-buttons">
   <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fmisongeek.github.io&t=" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Facebook" src="{{ site.url }}/images/social_flat_rounded_rects_svg/Facebook.svg"></a></li>
   <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fmisongeek.github.io&text=:%20http%3A%2F%2Fmisongeek.github.io&via=misongeek" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20'  + encodeURIComponent(document.URL)); return false;"><img alt="Tweet" src="{{ site.url }}/images/social_flat_rounded_rects_svg/Twitter.svg"></a></li>
   <li><a href="https://plus.google.com/share?url=http%3A%2F%2Fmisongeek.github.io" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL)); return false;"><img alt="Share on Google+" src="{{ site.url }}/images/social_flat_rounded_rects_svg/Google+.svg"></a></li>
