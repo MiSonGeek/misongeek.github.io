@@ -24,7 +24,7 @@ twitter_username: MiSonGeek
 github_username:  misongeek
 disqus_shortname: misongeek
 
-google_analytics_id: 'UA-89489039-1'
+google_analytics: UA-89489039-1
 
 # Build settings
 markdown: kramdown
