@@ -7,6 +7,32 @@ disqus: 1
 categories: smartphone chinaphone smartchinaphone acquisti dubbi consigli 
 ---
 
+<style>
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons .sr-only {
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 0;
+  border: 0;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}
+
+ul.share-buttons img{
+  width: 32px;
+}
+</style>
+
 Poiché *mi son geek*, voglio comprarmi un SCP (si legge eSseCiPi), ovvero uno SmartChinaPhone.
 
 Ne ho visti diversi, tutti con specifiche tecniche **paurose**, ma ad oggi non mi sono ancora convinto. 
