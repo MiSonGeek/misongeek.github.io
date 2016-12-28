@@ -31,3 +31,6 @@ I modelli che ho in mente sono:
 4. [Xiaomi Redmi 4 pro](http://www.hdblog.it/xiaomi/schede-tecniche/xiaomi-redmi-4-pro_i3328/)
 
 Voi cosa ne pensate, comprereste uno di questi tre SCP? Altrimenti quale?
+
+<br>
+Come al solito, potete condividere questo post o lasciare un commento qui sotto.

@@ -63,5 +63,5 @@ scoprire prodotti #Tech è quello degli [Stockisti](http://www.stockisti.com/):
 Mi son geek... e tu? Hai qualche altro sito da consigliarmi?
 
 <br>
-Come al solito, trovate sotto lo spazio per eventuali vostri commenti.  
+Come al solito, potete condividere questo post o lasciare un commento qui sotto.  
 
