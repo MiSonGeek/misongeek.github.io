@@ -16,7 +16,7 @@
 title: Mi son geek. E tu lo sei?
 email: misongeek@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Consigli e informazioni per l'acquisto di smartphone e smartwatch dalla cina:
+  Consigli e informazioni per l'acquisto di smartphone e smartwatch dalla Cina:
   vi racconto la mia esperienza in questo blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
