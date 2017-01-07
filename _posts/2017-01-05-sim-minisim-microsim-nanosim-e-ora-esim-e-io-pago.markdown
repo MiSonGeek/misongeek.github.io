@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SIM, MINISIM, MICROSIM, NANOSIM e ora eSIM: e io continuo a pagare..."
+title:  "SIM, MINISIM, MICROSIM, NANOSIM e ora eSIM: e io pago..."
 subtitle: "Un costo da non dimenticare quando cambi smartphone"
 date:   2017-01-05 13:13:13 +0100
 comments: true
